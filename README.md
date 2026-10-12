@@ -6,7 +6,6 @@ A Python-based IT infrastructure monitoring dashboard that monitors system healt
 
 This project demonstrates basic IT infrastructure monitoring concepts through a web-based dashboard built with Flask. It provides a centralized view of system performance, network diagnostics, service availability, and recent monitoring history.
 
-![System Performance Trends](screenshots/performance-trends.png)
 ## Features
 
 - **System Health Monitoring:** CPU usage, memory usage, disk usage, and available storage.
